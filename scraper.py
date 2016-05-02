@@ -18,7 +18,7 @@ for i in range(100):
      var1 = a.text
      var2 = var1.replace(' ','+')
      var3 = a.attrib['href']
-     var4 = var3.replace('/SearchUI/Details?uri=','',1)
+     var4 = var3.replace('/results/r/','',1)
      line = '*{{URI|' + var1 + '|' + var2 + '|' + var4 + '}}'
 #     uri = a.href
      record = { "a" : line}
