@@ -4,7 +4,7 @@ url1 = 'http://discovery.nationalarchives.gov.uk/results/r/'
 # the second part of the url is a variable - see below
 url3 = '?_aq=*&_d='
 url4 = bodycode
-url5 = '_cs=D%7CC&_rv=simple&_advtxt=*&_ps=60'
+url5 = '_cs=D%7CC&_advtxt=*&_ps=60'
 
 
 for i in range(100):
