@@ -444,7 +444,7 @@ for i in range(70):
 #bodycode = 'TV' #  Television Authority and the Independent Broadcasting Authority
 #bodycode = 'UGC' #  Higher Education Funding Council for England
 #bodycode = 'UKTI' #  UK Trade & Investment (UKTI)
-#bodycode = 'VC' #  The Victoria Climbié Inquiry
+#bodycode = 'VC' #  The Victoria Climbie Inquiry
 #bodycode = 'VCA' #  Vehicle Certification Agency
 #bodycode = 'VL' #  Central Veterinary Laboratory and Veterinary Laboratories Agency
 #bodycode = 'VOSA' #  Vehicle and Operator Services Agency
