@@ -7,7 +7,7 @@ url4 = bodycode
 url5 = '_cs=D%7CC&_rv=simple&_advtxt=*&_ps=60'
 
 
-for i in range(70):
+for i in range(100):
     url2 = str(i+1)
     url = url1 + url2 + url3 + url4 + url5
     html = scraperwiki.scrape(url)
